@@ -51,8 +51,9 @@ p {
 
 .inline li {
     text-align: left;
-    list-style: "- ";
     margin-left: 20%;
+    list-style-type: none;
+    font-size: 1em;
 }
 
 .footer {
