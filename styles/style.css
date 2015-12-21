@@ -1,0 +1,67 @@
+html, body {
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+}
+
+a {
+    color: #fff;
+}
+
+.wrapper {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.logo {
+    background-image: url(/images/logo.png);
+    width: 200px;
+    height: 200px;
+    background-size: 200px;
+    margin: 50px auto;
+}
+
+.footer {
+    background-color: #000;
+    padding: 30px 0;
+}
+
+.footer table {
+    width: 100%;
+    color: white;
+}
+
+.menu {
+    margin-top: 50px;
+}
+
+.menu li {
+    list-style: none;
+    display: inline-block;
+    font-family: sans-serif;
+    font-size: 24px;
+    margin: 10px 30px;
+}
+
+p {
+    width: 48%;
+    margin: 50px auto;
+}
+
+.section {
+    width: 100%;
+}
+
+.inline li {
+    text-align: left;
+    list-style: "- ";
+    margin-left: 20%;
+}
+
+.footer {
+    width: 100%;
+}
+
+.right {
+    text-align: right;
+}
